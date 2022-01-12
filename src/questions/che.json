@@ -1,0 +1,169 @@
+{
+    "root":[ 
+    {
+        "question": "The fastest running terrestrial animal is called _____ ?", 
+        "options": [
+            "Cheetah",
+            "Lion",
+            "Tiger",
+            "Jaguar"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The word ATOM is from a Greek word meaning _____ ?", 
+        "options": [
+            "Small",
+            "Indivisible",
+            "Unseen",
+            "Visible"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "A gas that is not associated with global warming is ______ ?", 
+        "options": [
+            "CO<sub>2</sub>",
+            "SO<sub>3</sub>",
+            "CH<sub>4</sub>",
+            "H<sub>2</sub>O"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Alkenes under high temperature and high pressure forms ______ ?", 
+        "options": [
+            "Alcohol",
+            "Polyalkynes",
+            "Polyalkanes",
+            "Polyalkenes"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "A(n) _____ is a dynamic chemical partnership between a weak acid and a weak base ?", 
+        "options": [
+            "Ionic Bond",
+            "Solute",
+            "Buffer System",
+            "Solvent"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Compounds that release hydrogen ion when they dissolve in water are called ______ ?", 
+        "options": [
+            "Acids",
+            "Bases",
+            "Salts",
+            "Alkaline Compounds",
+            "Organic Compounds"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The existence of an element in two or more physical from is called ______ ?", 
+        "options": [
+            "Hygroscopy",
+            "Allotropism",
+            "Polymorphism",
+            "Catenation"
+        ],
+        "answer": "b",
+        "figure": null
+    },    
+    {
+        "question": "The gaseous form of water is called ______ ?", 
+        "options": [
+            "Droplets",
+            "Fumes",
+            "Fog",
+            "Vapor"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Which of the following gases will bleach moist litmus paper ?", 
+        "options": [
+            "CL<sub>2</sub>",
+            "CO<sub>2</sub>",
+            "SO<sub>3</sub>",
+            "HCI"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "A salt which loses mass when exposed to air is _____ ?", 
+        "options": [
+            "Hygroscopic",
+            "Deliquescence",
+            "Efflorescence",
+            "Effervesence"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following typt of bonding does not involve the formation of a new substance?", 
+        "options": [
+            "metallic",
+            "covalent",
+            "co-ordinate",
+            "electrovalent"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "A form of carbon used for absorbing poisonous gases and purification of noble gases is.....?", 
+        "options": [
+            "wood charcoal",
+            "animal charcoal",
+            "carbon fibers ",
+            "carbon black"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "What is the pH value of pure water?", 
+        "options": [
+            "6.4",
+            "6.6",
+            "7",
+            "7.4"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which is an organic compound?", 
+        "options": [
+            "HCL",
+            "CaCO<sub>3</sub>",
+            "H<sub>2</sub>O",
+            "C<sub>2</sub>H<sub>6</sub>"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "..... supports combustion:", 
+        "options": [
+            "oxygen",
+            "nitrogen",
+            "carbon dioxide",
+            "chlorine"
+        ],
+        "answer": "a",
+        "figure": null
+    }    
+]}

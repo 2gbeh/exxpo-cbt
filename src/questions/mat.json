@@ -1,0 +1,162 @@
+{
+    "root":[ 
+    {
+        "question": "If A2 - A + I = 0, then the inverse of A is ", 
+        "options": [
+            "A + I",
+            "A",
+            "A - I.",
+            "I - A"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "If in a frequency distribution, the mean and median are 21 and 22 respectively, then its  mode is approximately", 
+        "options": [
+            "22.0",
+            "20.5",
+            "25.5",
+            "24.0"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Operational calculus is also know as ...", 
+        "options": [
+            "operational analysis",
+            "operational amplification",
+            "logical analysis",
+            "integration"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The sum of two integers is 48. If one of the integers is -24, determine the other ", 
+        "options": [
+            "62",
+            "72",
+            "50."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Every prime number except 2 is a/an ..... number ", 
+        "options": [
+            "odd",
+            "even",
+            "fraction."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Diameter of the circle is 12cm. Find its radius? ", 
+        "options": [
+            "4cm",
+            "6cm",
+            "8cm."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "If the sum of two angles measures 90 degrees, then the angles are known as ..... angles ", 
+        "options": [
+            "Complementary",
+            "Supplementary",
+            "Zero."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "A number which is expressed as a + ib, where a and b are real is called.... ", 
+        "options": [
+            "Real numbers",
+            "Irrational number",
+            "Complex number.",
+            "Rational number"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "if 5 = V, how is 5,000 written in roman numeral system? ", 
+        "options": [
+            "MX",
+            "V",
+            "MMMMM",
+            "VM"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Among the following, which whole number has no predecessor?", 
+        "options": [
+            "-1",
+            "0",
+            "1.",
+            "e"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "What does 1 googol mean?", 
+        "options": [
+            "1 followed by hundred zeros",
+            "1 followed by thousand zeros",
+            "1 followed by ten thousand zeros"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Among the following, which natural number has no predecessor?", 
+        "options": [
+            "100",
+            "200",
+            "1.",
+            "0"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Any number in the form of 2p - 1, where p is a prime is known as .... ", 
+        "options": [
+            "Dual Prime",
+            "Goldbach Prime",
+            "Mersenne Prime.",
+            "Golden Number"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "There are only 2 numbers that are twice the sum of their individual digits; one of them is zero(0). What is the other one", 
+        "options": [
+            "18",
+            "27",
+            "45.",
+            "40"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Which of the following is not a Pythagorean triplet? ", 
+        "options": [
+            "(3,4,5)",
+            "(7,24,25)",
+            "(9,41,42)."
+        ],
+        "answer": "d",
+        "figure": null
+    }
+]}

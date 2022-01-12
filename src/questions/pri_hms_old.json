@@ -1,0 +1,204 @@
+{
+    "root":[
+    {
+        "question": "School design refers to the school's ...?", 
+        "options": [
+            "Building plans", 
+            "Architecture, Constructions and Landscaping", 
+            "Floral aspects of the school"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The first step in school organization is the ...?", 
+        "options": [
+            "Demarcation and securing of the premises", 
+            "Construction of classrooms and other buildings ", 
+            "Employment of teachers"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "School organization has a fixed and rigid route ", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Beautification of the school premises involves paying attention to the ...?", 
+        "options": [
+            "Floral and faun", 
+            "Decorating with ribbons ", 
+            "Painting structures with bright colours"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "... is an example of sports facility in the school ...", 
+        "options": [
+            "gymnastic lawn", 
+            "urinal", 
+            "incinerators"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Health facilities in the school include the following except", 
+        "options": [
+            "infirmary", 
+            "incinerator", 
+            "school library"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "All elementary schools should have libraries ", 
+        "options": [
+            "True", 
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Physically challenged pupils school have their own separate classes", 
+        "options": [
+            "True", 
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The classroom could be regarded as a room specifically designed for", 
+        "options": [
+            "playing ", 
+            "teaching and learning",
+            "singing and dancing"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The ....... is the first step towards being an effective teacher in the classroom ", 
+        "options": [
+            "personal classroom management plan ", 
+            "writing of lesson plans/notes",
+            "attending a college/university."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Nature corner in the classroom is one way of ..........", 
+        "options": [
+            "keeping the class clean", 
+            "stimulating pupils imagination and develop a spirit of enquiry",
+            "teaching pupils self control"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "It is important for the classroom to have its own library corner.", 
+        "options": [
+            "False", 
+            "True"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Class control is a show of the class teacher's power and authority", 
+        "options": [
+            "False", 
+            "True"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "When there is peace in the classroom for effective teaching and learning, it is an example of", 
+        "options": [
+            "class control", 
+            "class discipline", 
+            "class responsiveness"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Class rules are also binding on the classroom teacher.", 
+        "options": [
+            "False", 
+            "True"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The class attendance register must be marked ... daily ", 
+        "options": [
+            "ones", 
+            "twice",
+            "Thrice"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "is a tool which the teacher uses to make teaching and learning better in the classroom", 
+        "options": [
+            "Teacher research", 
+            "lesson plans and notes",
+            "class swapping and navigation."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Teaching aids are the same for all lessons and topics.", 
+        "options": [
+            "True", 
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The lesson topic determines the teaching aids to be used ", 
+        "options": [
+            "True", 
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Corporal punishment as a form of discipline is retributive rather than correctional", 
+        "options": [
+            "True", 
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The following are styles of discipline except ........", 
+        "options": [
+            "reality appraisal ", 
+            "pleasure -pain principle ",
+            "kneeling down"
+        ],
+        "answer": "c",
+        "figure": null
+    }
+]}

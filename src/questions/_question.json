@@ -1,0 +1,57 @@
+{
+    "root":[
+    {
+        "question": "Who approves Web development standards ?", 
+        "options": [
+            "Google, Inc.", 
+            "Mozilla Foundation", 
+            "World Wide Web Consortium",
+            "W3Schools"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which attribute defines the placeholder of an image when it cannot be displayed ?", 
+        "options": [
+            "alt", 
+            "longdesc", 
+            "placeholder",
+            "summary",
+            "title"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Which form input type defines a slider control ?", 
+        "options": [
+            "radio", 
+            "range", 
+            "search",
+            "tel"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The &lt;iframe&gt; tag is used to display nested web pages.", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The diagram below represents ___ ?", 
+        "options": [
+            "Django project default landing page", 
+            "Server-side Business Logic",
+            "Website Architecture",
+            "They did not teach us "
+        ],
+        "answer": "a",
+        "figure": "_diagram.png"
+    }
+]}

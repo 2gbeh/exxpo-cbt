@@ -1,0 +1,172 @@
+{
+    "root":[ 
+    {
+        "question": "_____ secure energy from decaying organic materials ?", 
+        "options": [
+            "Producers",
+            "Decomposers",
+            "Consumers",
+            "All of the above"
+        ],
+        "answer": "b",
+        "figure": null
+    },   
+    {
+        "question": "_____ is the acquisition of traits after parents transmit their DNA to offspring ?",
+        "options": [
+            "Metabolism",
+            "Inheritance",
+            "Reproduction",
+            "Homeostasis"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Compounds that release hydrogen ion when they dissolve in water are called _____ ?", 
+        "options": [
+            "Acids",
+            "Bases",
+            "Salts",
+            "Alkaline Compounds",
+            "Organic Compounds"
+        ],
+        "answer": "a",
+        "figure": null
+    },    
+    {
+        "question": "Carbon dioxide gas is produced by living organisms during the process of ____ ?", 
+        "options": [
+            "Photosynthesis",
+            "Digestion",
+            "Respiration",
+            "Chemosynthesis",
+            "Anabolism"
+        ],
+        "answer": "c",
+        "figure": null
+    },    
+    {
+        "question": "The molecule that supplies most of the energy needed for cellular function is _____ ?", 
+        "options": [
+            "DNA",
+            "RNA",
+            "Starch",
+            "ATP"
+        ],
+        "answer": "d",
+        "figure": null
+    },    
+    {
+        "question": "_____ are to proteins as _____ are to nucleic acids ?", 
+        "options": [
+            "Sugars, Lipids",
+            "Amino Acids, Hydrogen Bonds",
+            "Sugars, Proteins",
+            "Amino Acids, Nucleotides"
+        ],
+        "answer": "d",
+        "figure": null
+    },    
+    {
+        "question": "Each carbon atom can share pairs of electrons with as many as _____ other atoms ?", 
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "A denature protein has lost its _____ ?", 
+        "options": [
+            "Hydrogen Bonds",
+            "Shape",
+            "Function",
+            "All of the above"
+        ],
+        "answer": "d",
+        "figure": null
+    },    
+    {
+        "question": "Which of the following nucleotides is not found in DNA ?", 
+        "options": [
+            "Adenine",
+            "Uracil",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": "b",
+        "figure": null
+    }, 
+    {
+        "question": "_____ is life's primary source of energy ?", 
+        "options": [
+            "Food",
+            "Water",
+            "Sunlight",
+            "ATP"
+        ],
+        "answer": "c",
+        "figure": null
+    },   
+    {
+        "question": "Which of the organelles is involved in locomotion ?", 
+        "options": [
+            "Endoplasmic Reticulum",
+            "Flagellum",
+            "Golgi Apparatus",
+            "Vacuole",
+            "Chloroplast"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Worms with segmented 'bodies are called _____ ?", 
+        "options": [
+            "Flat Worms",
+            "Nematodes",
+            "Annelids",
+            "Acorn Worms",
+            "Ribbon Worms"
+        ],
+        "answer": "c",
+        "figure": null
+    },   
+    {
+        "question": "Anaerobic respiration takes place in the absence of _____ ?", 
+        "options": [
+            "Oxygen",
+            "carbon (IV) Oxide",
+            "Hydrogen",
+            "Sulphur"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The movement of a plant part in response to light is called _____ ?", 
+        "options": [
+            "Geotropism",
+            "Chemotropism",
+            "Phototropism",
+            "Hydrotropism"
+        ],
+        "answer": "c",
+        "figure": null
+    },   
+    {
+        "question": "Which two gases are used to disinfect water in sewage treatment facilities ?", 
+        "options": [
+            "Helium and Nitrogen",
+            "Ozone and Chlorine",
+            "Oxygen and Hydrogen",
+            "Nitrogen and Chlorine"
+        ],
+        "answer": "b",
+        "figure": null
+    }            
+]}

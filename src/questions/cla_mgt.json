@@ -1,0 +1,146 @@
+{
+    "root":[ 
+    {
+        "question": "The ....... is the first step towards being an effective teacher in the classroom  ", 
+        "options": [
+            "Personal classroom management plan",
+            "Writing of lesson plans/notes",
+            "Attending a college/university."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The classroom could be regarded as a room specifically designed for   ", 
+        "options": [
+            "Playing",
+            "Teaching and learning",
+            "Singing and dancing"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Nature corner in the classroom is one way of .........", 
+        "options": [
+            "Keeping the class clean",
+            "Stimulating pupils imagination and develop a spirit of enquiryy",
+            "Teaching pupils self control."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "It is important for the classroom to have its own library corner.", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Class control is a show of the class teacher's power and authority", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "When there is peace in the classroom for effective teaching and learning, it is an example of ...",
+        "options": [
+            "Class control",
+            "Class discipline",
+            "Class responsiveness"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Class rules are also binding on the classroom teacher.", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The class attendance register must be marked .... daily", 
+        "options": [
+            "Once",
+            "Twice",
+            "Thrice"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "..... is a tool which the teacher uses to make teaching and learning better in the classroom ", 
+        "options": [
+            "Teacher research",
+            "Lesson plans and notes",
+            "Class swapping and navigation."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Teaching aids are the same for all lessons and topics.", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The lesson topic determines the teaching aids to be used ", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Corporal punishment as a form of discipline is retributive rather than correctional ", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The following are styles of discipline except .........", 
+        "options": [
+            "Reality appraisal",
+            "Pleasure - pain principle",
+            "Kneeling down."
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "The concept of child - friendly school is that", 
+        "options": [
+            "Each school should operate in the best interest of the child",
+            "No child should be disciplined",
+            "All schools must be the same"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "It is important for the school to organize annual inter-house competition.", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    }
+]}

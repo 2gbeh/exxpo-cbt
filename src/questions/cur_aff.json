@@ -1,0 +1,149 @@
+{
+    "root":[ 
+    {
+        "question": "What does the acronym UNICEF stands for ", 
+        "options": [
+            "United Nation Children's Education Fund",
+            "United Nations Children's Fund",
+            "United NationsChildrens'Fund."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The Education for All declaration was made in the year .........", 
+        "options": [
+            "1990",
+            "1995",
+            "2000"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "CRC stands for ....", 
+        "options": [
+            "Christian Religious Council ",
+            "Convention on the Rights of the Child",
+            "Critical Restoration Council"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The tripartite funding of education in Nigeria is purely for ........", 
+        "options": [
+            "Early childhood education",
+            "The 9 - years universal Basic Education. ",
+            "The elementary education part of the Universal Basic Education (UBE)"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Wooden-spoon, computer and the mobile phone could be regarded as technology in learning", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "......... is when learners learn by doing", 
+        "options": [
+            "Constructivism",
+            "Practical's",
+            "Enquiry."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The Universal Basic Education came into existence in the ....... Academic session and passed into law in .......  ", 
+        "options": [
+            "2000/2001; 2004",
+            "2001/2002; 2004",
+            "1999/2000; 2004"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "State Universal Education Boards (SUBEBs) are independent of the Universal Basic Education Commission(UBEC)", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The Local Government Education Authorities administer all matters concerning education in a local government area", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The current commissioner for Basic and Secondary Education in Delta State is ......", 
+        "options": [
+            "Chika Ossai ",
+            "Patrick Muoboghare",
+            "Basil Ganagana"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Delta State currently has ..... State-owned universities", 
+        "options": [
+            "6",
+            "4",
+            "3"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The Covid-19 was delignated a .......", 
+        "options": [
+            "Pandemic",
+            "Endemic",
+            "Continental."
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Creativity day is part of all school programmes in Nigeria", 
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "...... are some of the variants of Covid-19, with ...... being the latest ", 
+        "options": [
+            "alpha, gamma, beta, delta / omicron ",
+            "Astrazeneka, Delta, MRNa / moderna",
+            "alpha, beta, Omicron, Bio NTec / delta"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "What year was the Nigerian civil war ", 
+        "options": [
+            "1966 - 1970",
+            "1967 - 1970",
+            "1965 - 1971"
+        ],
+        "answer": "b",
+        "figure": null
+    }
+]}

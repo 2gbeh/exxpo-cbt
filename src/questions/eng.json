@@ -1,0 +1,170 @@
+{
+    "root":[ 
+    {
+        "question": "Who is the author of No Longer At Ease?", 
+        "options": [
+            "Wole Soyinka",
+            "J.P.Clarke Bekederemo",
+            "Chinua Achebe",
+            "Flora Nwakpa"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Who wrote Eze Goes to School?", 
+        "options": [
+            "Elechi Amadi",
+            "Amos Tutuola",
+            "Gabriel Okara",
+            "Onuora Nzekwu"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Chinua Achebe's Things Fall Apart is about ?", 
+        "options": [
+            "Okonkwo and his quarrel with Umuofia",
+            "Culture clash between Africa and Europe",
+            "New yam festival",
+            "Igbo traditional society"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of the following words contain the sound /k/ ?", 
+        "options": [
+            "batch",
+            "stomach",
+            "barge",
+            "marsh"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of the following words contain the sound /s/ ?", 
+        "options": [
+            "shame",
+            "island",
+            "leech",
+            "ice"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Which of the following words contain the sound /t/ ?", 
+        "options": [
+            "booth",
+            "hushed",
+            "thank",
+            "thatch"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of the following words contain the sound /w/ ?", 
+        "options": [
+            "bowl",
+            "mower",
+            "bow",
+            "quickly"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Which of the following words contain the sound /z/ ?", 
+        "options": [
+            "pass",
+            "sink",
+            "fees",
+            "mercy"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word POPULATION ? ", 
+        "options": [
+            "POP - pu - la - tion",
+            "pop - PU - la - tion",
+            "pop - pu - LA - tion",
+            "pop - pu - la - TION"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word AUTOCRATIC? ", 
+        "options": [
+            "AU - to - cra - tic",
+            "au - TO - cra - tic",
+            "au - to - CRA - tic",
+            "au - to - cra - TIC"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word UTILITY ? ", 
+        "options": [
+            "U - ti - li - ty",
+            "u - ti - LI - ty",
+            "u - TI - li - ty",
+            "u- ti - li - TY"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word RETRIEVABLE ? ", 
+        "options": [
+            "re - trie - va - BLE",
+            "RE - trie - va - ble",
+            "re - TRIE - va - ble",
+            "re - trie - VA - ble"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word PHOTOGRAPHY ? ", 
+        "options": [
+            "pho - to - gra - PHY",
+            "pho - to - GRA - phy",
+            "PHO - to - gra - phy",
+            "pho - TO - gra - phy"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word BUREAUCRACY ? ", 
+        "options": [
+            "BU - reau - cra - cy",
+            "bu - REAU - cra - cy",
+            "bu - reau - CRA - cy",
+            "bu- reau - cra - CY"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of the following option has the correct stress of the word ARISTOCRACY ? ", 
+        "options": [
+            "A - ri - sto - cra - cy",
+            "a - RI - sto - cra - cy",
+            "a - ri - STO - cra - cy",
+            "a - ri - sto - CRA - cy",
+            "a - ri - sto - cra - CY"
+        ],
+        "answer": "c",
+        "figure": null
+    }
+]}
+    

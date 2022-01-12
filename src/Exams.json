@@ -1,0 +1,122 @@
+{"root":[
+  {
+    "title": "English Language",
+    "slug": "English",
+    "exam_id": "eng",
+    "exam_date": "2021-12-08",
+    "exam_time": "11:00:00",
+    "faqs": 15,
+    "timer": 30,
+    "icon": "fas fa-comments"
+  },
+  {
+    "title": "Mathematics",
+    "slug": null,
+    "exam_id": "mat",
+    "exam_date": "2021-12-10",
+    "exam_time": "11:00:00",
+    "faqs": 15,
+    "timer": 30,
+    "icon": "fas fa-calculator"
+  },
+  {
+    "title": "Physics",
+    "slug": null,
+    "exam_id": "phy",
+    "exam_date": "2021-12-09",
+    "exam_time": "11:00:00",
+    "faqs": 30,
+    "timer": 60,
+    "icon": "fas fa-wrench"
+  },
+  {
+    "title": "Chemistry",
+    "slug": null,
+    "exam_id": "che",
+    "exam_date": "2021-12-09",
+    "exam_time": "11:00:00",
+    "faqs": 15,
+    "timer": 30,
+    "icon": "fas fa-flask"
+  },
+  {
+    "title": "Biology",
+    "slug": null,
+    "exam_id": "bio",
+    "exam_date": "2021-12-09",
+    "exam_time": "11:00:00",
+    "faqs": 15,
+    "timer": 30,
+    "icon": "fas fa-syringe"
+  },
+  {
+    "title": "Current Affairs",
+    "slug": null,
+    "exam_id": "cur_aff",
+    "exam_date": "2021-12-08",
+    "exam_time": "11:00:00",
+    "faqs": 10,
+    "timer": 20,
+    "icon": "fas fa-globe"
+  },
+  {
+    "title": "Principals and H/Ms",
+    "slug": "Principals &amp; H/Ms",
+    "exam_id": "pri_hms",
+    "exam_date": "2021-12-07",
+    "exam_time": "11:00:00",
+    "faqs": 45,
+    "timer": 90,
+    "icon": "fas fa-school"
+  },
+  {
+    "title": "School Teachers",
+    "slug": null,
+    "exam_id": "sch_tea",
+    "exam_date": "2021-12-08",
+    "exam_time": "11:00:00",
+    "faqs": 45,
+    "timer": 90,
+    "icon": "fas fa-chalkboard-teacher"
+  },
+  {
+    "title": "Computer Programming",
+    "slug": "Programming",
+    "exam_id": "pro_fun",
+    "exam_date": "2021-08-09",
+    "exam_time": "11:00:00",
+    "faqs": 40,
+    "timer": 90,
+    "icon": "fas fa-code"
+  },
+  {
+    "title": "Data Analytics",
+    "slug": null,
+    "exam_id": "dat_ana",
+    "exam_date": "2021-08-30",
+    "exam_time": "14:00:00",
+    "faqs": 40,
+    "timer": 90,
+    "icon": "fas fa-chart-line"
+  },
+  {
+    "title": "Website Design and Development",
+    "slug": "Web Design",
+    "exam_id": "web_des",
+    "exam_date": "2021-12-17",
+    "exam_time": "11:00:00",
+    "faqs": 5,
+    "timer": 6,
+    "icon": "fas fa-globe"
+  },
+  {
+    "title": "Mobile App Development",
+    "slug": "Mobile Apps",
+    "exam_id": "mob_app",
+    "exam_date": "2022-04-15",
+    "exam_time": "11:00:00",
+    "faqs": 40,
+    "timer": 90,
+    "icon": "fas fa-mobile-alt"
+  }
+]}

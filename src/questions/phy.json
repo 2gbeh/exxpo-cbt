@@ -1,0 +1,333 @@
+{
+    "root":[ 
+    {
+        "question": "Fish plates in Railway tracks are used to", 
+        "options": [
+            "Connect two rails",
+            "Join two coaches",
+            "Guide the wheels.",
+            "Avoid fishes on the track"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "At the equator, the duration of day is... ", 
+        "options": [
+            "10hrs",
+            "12hrs",
+            "14hrs.",
+            "16hrs"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Fathometer is used to measure ...", 
+        "options": [
+            "Earthquakes",
+            "Rainfall",
+            "Ocean depth.",
+            "Sound intensity"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "When the Sun reaches its maximum distance from the equator, it is known as....", 
+        "options": [
+            "Solstice",
+            "Eclipse",
+            "Equinox.",
+            "Sidereal Day"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The restoring force for large waves is", 
+        "options": [
+            "wind",
+            "capillary action",
+            "adhesion.",
+            "friction",
+            "gravity"
+        ],
+        "answer": "e",
+        "figure": null
+    },
+    {
+        "question": "Super conductivity is a phenomenon in which the resistance of a substance.....", 
+        "options": [
+            "Increase with temperature",
+            "Decrease with temperature",
+            "Does not change with temperature.",
+            "Becomes zero at very low temperature"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Ozone hole refers to ....", 
+        "options": [
+            "Hole in ozone layer",
+            "Decrease in the ozone layer in the troposphere",
+            "Decrease in the thickness of the ozone layer in stratosphere",
+            "Increase in the thickness of the ozone layer in troposphere"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Each carbon atom can share pairs of electrons with as many as ..... other atoms. ", 
+        "options": [
+            "One",
+            "two",
+            "three.",
+            "four"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "The normal threshold of hearing is around.....", 
+        "options": [
+            "60-80 db",
+            "45-60 db",
+            "100-120 db.",
+            "25-45 db"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "The main reserves of phosphorus in the biosphere is in the .... ", 
+        "options": [
+            "Hydrosphere",
+            "Atmosphere",
+            "Lithosphere.",
+            "Troposphere"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "The clear sky looks blue beacuse ", 
+        "options": [
+            "Reflection of light",
+            "Refraction of light",
+            "Diffraction of light.",
+            "Dispersion of light"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "A line drawn around the center of the earth's perpendicular to the earth's north-south axis is the ", 
+        "options": [
+            "Prime meridian",
+            "Tropic of Cancer",
+            "Tropic of Capricorn.",
+            "Equator"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Electrons carry a ..... charge. ", 
+        "options": [
+            "Positive",
+            "negative",
+            "zero."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Steel is more elastic than Rubber because .... ", 
+        "options": [
+            "Its density is high",
+            "It is a metal",
+            "Ratio of stress to strain is more.",
+            "Ratio of stress to strain is less"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Electric power is less expensive at night because .... ", 
+        "options": [
+            "more hydroelectric generation is brought on line at night ",
+            "there is less demand at night",
+            "pollution control is less stringent at night.",
+            "plants are more efficient at night."
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of these is not an example of fundamental quantities ?", 
+        "options": [
+            "temperature",
+            "length",
+            "mass.",
+            "force"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "What is a hexagon ?", 
+        "options": [
+            "two-sided polygon",
+            "four-sided polygon ",
+            "six-sided polygon.",
+            "eight-sided polygon"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "In isobaric process ..... is constant  ", 
+        "options": [
+            "heat",
+            "temperature",
+            "volume.",
+            "pressure"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "The Sl unit of pressure is ....", 
+        "options": [
+            "newton per meter",
+            "pascal",
+            "newton.",
+            "joule"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The gaseous form of water is called ... ", 
+        "options": [
+            "water droplet",
+            "water vapor",
+            "cloud.",
+            "fog"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "Which of the following instruments is used to measure relative humidity?  ", 
+        "options": [
+            "hydrometer",
+            "barometer",
+            "hypsometer.",
+            "hygrometer"
+        ],
+        "answer": "d",
+        "figure": null
+    },
+    {
+        "question": "Which of the following sources of energy is renewable?", 
+        "options": [
+            "sun",
+            "petroleum",
+            "coal.",
+            "uranium"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "The sound heard by a person after the reflection of the sound generated by him is called?", 
+        "options": [
+            "reverberation",
+            "resonance",
+            "echo.",
+            "audibility"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Sieving is a technique used to separate mixtures containing solid particles of ....", 
+        "options": [
+            "small sizes",
+            "large sizes",
+            "different sizes.",
+            "the same size"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "The cracking process is very important in the petroleum industry because it ..... ", 
+        "options": [
+            "gives purer products",
+            "yields more lubricants",
+            "yields more engine fuels.",
+            "yields more asphalt"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Which is the method of transmission of energy/heat that does not require direct contact with the heat source?", 
+        "options": [
+            "radiation",
+            "conduction",
+            "convection.",
+            "all Of the above"
+        ],
+        "answer": "a",
+        "figure": null
+    },
+    {
+        "question": "Which best describes Newton's third law of motion?", 
+        "options": [
+            "light travels in a straight line",
+            "longitudinal wave",
+            "action and reaction are equal and opposite.",
+            "escape velocity"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "Momentum is the product of ....", 
+        "options": [
+            "mass x distance",
+            "mass x velocity",
+            "mass x acceleration.",
+            "force x distance"
+        ],
+        "answer": "b",
+        "figure": null
+    },
+    {
+        "question": "The universal law of gravitation was propounded by", 
+        "options": [
+            "Kepler",
+            "Galileo",
+            "Newton.",
+            "Corpenicus"
+        ],
+        "answer": "c",
+        "figure": null
+    },
+    {
+        "question": "A man weighing 65kg jumps from a 100ft high building with a load of 35kg. What will be the load experienced by him?", 
+        "options": [
+            "20kg",
+            "100kg",
+            "200kg.",
+            "Zero"
+        ],
+        "answer": "d",
+        "figure": null
+    }
+]}
