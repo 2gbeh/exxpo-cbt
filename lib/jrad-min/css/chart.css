@@ -1,0 +1,441 @@
+@charset "utf-8";
+/* CSS Document */
+table.chart_grid {
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+table.chart_grid caption {
+  padding: 0 25px;
+  text-align: left;
+  text-transform: uppercas;
+  text-shadow: 1px 1px 0 #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+table.chart_grid tr {
+  vertical-align: top;
+}
+table.chart_grid tr td {
+  min-width: 10px;
+  max-width: 10px;
+}
+
+table.chart {
+  background-color: #fff;
+  border-collapse: collapse;
+  box-shadow: 1px 3px 2px #ccc;
+}
+table.chart caption {
+  padding: 10px 15px;
+  background-color: #fff;
+  text-align: left;
+  font-size: 12px;
+  font-weight: bold;
+  border-bottom: solid thin #ddd;
+  box-shadow: 1px 0 1px #ccc;
+}
+table.chart tr {
+  vertical-align: middle;
+}
+table.chart ol {
+  padding: 0;
+  margin: 0;
+  background-color: lavender;
+  box-shadow: 0 2px 0 #ccc;
+}
+table.chart ol li {
+  background-color: #555;
+  color: #fff;
+	list-style-type: none;
+}
+table.chart ol li:hover {
+  background-color: #333;
+  cursor: pointer;
+}
+@-webkit-keyframes chart_anime {
+  25% {
+    width: 100%;
+  }
+  50% {
+    width: 25%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes chart_anime {
+  25% {
+    width: 100%;
+  }
+  50% {
+    width: 25%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+
+table.chart_macro {
+  min-width: 250px;
+}
+table.chart_macro tr:first-child th {
+  padding: 20px 0 5px 15px;
+	color: #222;
+  text-align: left;
+  font-size: 28px;
+  font-weight: normal;
+}
+table.chart_macro tr:last-child th {
+  padding: 5px 15px;
+}
+table.chart_macro tr td {
+  padding: 30px 20px 0 5px;
+  color: #555;
+  font-size: 12px;
+  vertical-align: middle;
+}
+table.chart_macro tr td.rate {
+  text-align: right;
+  min-width: 50px;
+  max-width: 50px;
+}
+table.chart_macro ol {
+	padding: 0;
+  margin: 0 0 15px;
+  height: 8px;
+  border-radius: 10px;
+}
+table.chart_macro ol li {
+  height: 8px;
+  -webkit-animation: chart_anime 5s ease-out;
+  animation: chart_anime 5s ease-out;
+	border-radius: 10px;
+}
+
+table.chart_postit tr {
+  vertical-align: bottom;
+}
+table.chart_postit tr th,
+table.chart_postit label {
+  color: #555;
+  font-size: 14px;
+}
+table.chart_postit tr th {
+  padding: 0 15px 5px 0;
+  text-align: right;
+  font-weight: normal;
+  vertical-align: bottom;
+}
+table.chart_postit tr td {
+  padding: 5px 15px;
+}
+table.chart_postit h2 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 24px;
+  font-weight: normal;
+}
+table.chart_postit tr:nth-child(2) td h2 {
+  color: #dd4b39;
+}
+table.chart_postit tr:nth-child(3) td h2 {
+  color: #00a65a;
+}
+table.chart_postit tr:nth-child(4) td h2 {
+  color: #00c0ef;
+}
+table.chart_postit tr:nth-child(5) td h2 {
+  color: #f39c12;
+}
+
+table.chart_ring tr td {
+  padding: 1px 15px;
+  text-align: center;
+}
+table.chart_ring tr td .chart_ring {
+  animation: chart_ring_anime 2s reverse;
+  transform: rotate(-90deg);
+  transform-origin: center;
+}
+table.chart_ring tr td .chart_ring_negative {
+  transform: rotate(-90deg) scale(1, -1);
+}
+table.chart_ring tr td .chart_ring_inner {
+  animation: chart_ring_anime_fade_in 2s forwards;
+  opacity: 0;
+  transform: translateY(0.3em);
+}
+table.chart_ring tr td .chart_ring_rate {
+  font-size: 7px;
+}
+table.chart_ring tr td .chart_ring_label {
+  font-size: 2.5px;
+}
+@-webkit-keyframes chart_ring_anime {
+  to {
+    stroke-dasharray: 0 100;
+  }
+}
+@keyframes chart_ring_anime {
+  to {
+    stroke-dasharray: 0 100;
+  }
+}
+@-webkit-keyframes chart_ring_anime_fade_in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes chart_ring_anime_fade_in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+table.chart_progress tr th {
+  padding: 8px 0;
+  padding-left: 15px;
+  width: 10px;
+  text-align: right;
+  font-weight: normal;
+  white-space: nowrap;
+}
+table.chart_progress tr td {
+  padding: 5px 15px;
+}
+table.chart_progress ol li {
+  padding: 5px;
+  text-align: right;
+  text-shadow: 0 1px #333;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+table.chart_meter tr th,
+table.chart_meter tr td {
+  padding: 5px;
+  text-align: right;
+  white-space: nowrap;
+}
+table.chart_meter tr th {
+  padding-left: 15px;
+  font-weight: normal;
+}
+table.chart_meter tr td:last-child {
+  padding-right: 15px;
+  font-size: 14px;
+  font-weight: bol;
+}
+table.chart_meter ol li {
+  padding: 8px;
+  text-align: right;
+  font-size: 10px;
+}
+
+table.chart_bar tr th {
+  padding: 5px 10px;
+  padding-left: 15px;
+  text-align: right;
+  font-weight: normal;
+  border-right: solid 2px #ddd;
+  white-space: nowrap;
+}
+table.chart_bar tr td {
+  padding: 5px 0;
+  border-bottom: solid thin #ddd;
+}
+table.chart_bar tr:first-child td,
+table.chart_bar tr:nth-last-child(2) td,
+table.chart_bar tr:last-child td,
+table.chart_bar tr td:last-child {
+  border: none;
+}
+table.chart_bar ol {
+  margin-righ: 15px;
+  background-color: transparent;
+  box-shadow: none;
+}
+table.chart_bar ol li {
+  padding: 5px 10px;
+  background-color: #555;
+  color: #fff;
+  text-align: right;
+  text-shadow: 0 1px #333;
+  font-size: 14px;
+  box-shadow: 0 2px 0 #ccc;
+}
+
+table.chart_column tr td {
+  min-width: 20px;
+  max-width: 20px;
+  min-height: 20px;
+  max-height: 20px;
+}
+table.chart_column tbody tr th {
+  padding: 16px 35px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+table.chart_column tbody tr td {
+  border: solid thin #eee;
+	border-left: none;
+}
+table.chart_column tfoot tr td {
+  padding: 5px 0;
+  text-align: center;
+  font-size: 10px;
+  border: solid thin #ddd;
+}
+table.chart_column tbody tr:first-child td,
+table.chart_column tbody tr td:last-child {
+  border: none;
+}
+table.chart_column tfoot tr:first-child td {
+  border-top: solid;
+  font-weight: bold;
+}
+table.chart_column tfoot tr:last-child td {
+  border: none;
+}
+table.chart_column tbody tr th {
+  position: relative;
+}
+table.chart_column tbody tr th var {
+  position: absolute;
+  top: 22px;
+  left: 25px;
+}
+table.chart_column tbody tr td.active {
+  background-color: #555;
+  background-color: #0093dd;
+  border-bottom-color: #75c5f0;
+}
+
+table.chart_splot tr td {
+  min-width: 20px;
+  max-width: 20px;
+  min-height: 20px;
+  max-height: 20px;
+}
+table.chart_splot tbody tr th {
+  padding: 16px 35px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+table.chart_splot tbody tr td {
+  border-bottom: solid thin #eee;
+}
+table.chart_splot tbody tr td:last-child {
+  border-bottom: none;
+}
+table.chart_splot tfoot tr td {
+  padding: 5px 0;
+  text-align: center;
+  font-size: 10px;
+  border: solid thin #ddd;
+}
+table.chart_splot tfoot tr:first-child td {
+  border-top: solid;
+  font-weight: bold;
+}
+table.chart_splot tfoot tr:last-child td {
+  border: none;
+}
+table.chart_splot tbody tr th,
+table.chart_splot tbody tr td {
+  position: relative;
+}
+table.chart_splot tbody tr th var {
+  position: absolute;
+  top: 22px;
+  left: 25px;
+}
+table.chart_splot tbody tr td var {
+  position: absolute;
+  top: 22px;
+  left: 10px;
+  background-color: #555;
+  background-color: #0093dd;
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  display: inline-block;
+}
+table.chart_splot tbody tr td var:hover {
+  background-color: #333;
+	background-color: #007BB8;
+  cursor: pointer;
+}
+
+table.chart_cstick tr td {
+  min-width: 20px;
+  max-width: 20px;
+  min-height: 20px;
+  max-height: 20px;
+}
+table.chart_cstick tbody tr th {
+  padding: 16px 35px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+table.chart_cstick tbody tr td {
+  border-bottom: solid thin #eee;
+}
+table.chart_cstick tbody tr td:last-child {
+  border-bottom: none;
+}
+table.chart_cstick tfoot tr td {
+  padding: 5px 0;
+  text-align: center;
+  font-size: 10px;
+  border: solid thin #ddd;
+}
+table.chart_cstick tfoot tr:first-child td {
+  border-top: solid;
+  font-weight: bold;
+}
+table.chart_cstick tfoot tr:last-child td {
+  border: none;
+}
+table.chart_cstick tbody tr th,
+table.chart_cstick tbody tr td {
+  position: relative;
+}
+table.chart_cstick tbody tr th var {
+  position: absolute;
+  top: 22px;
+  left: 25px;
+}
+table.chart_cstick tbody tr td var {
+  position: absolute;
+  top: 1px;
+  left: 15px;
+  width: auto;
+  height: 60px;
+  border: none;
+  border-left: solid 0.15em red;
+  display: inline-block;
+}
+table.chart_cstick tbody tr td var::after {
+  position: absolute;
+  top: 15px;
+  left: -7px;
+  content: " ";
+  background-color: red;
+  width: 10px;
+  height: 30px;
+  border: solid thin blue;
+	border: solid thin darkred;
+  display: inline-block;
+}
+table.chart_cstick tbody tr td var.alt::after {
+  background-color: white;
+  border: solid thin red;
+}
+table.chart_cstick tbody tr td var:hover::after {
+  background-color: #e11;
+  cursor: pointer;
+}

@@ -1,0 +1,122 @@
+SHAMAN
+The absolute RAD web framework for django, laravel, rails, react and spring.
+./lib/shaman/server.lang, buffer.lang, 
+
+SERVER - CRUD SAFE
+VALIDATION
+    T  TRIM
+    E  ESCAPE
+    E  EMAIL
+    P  PASSWORD
+    N  NUMBER
+
+C - INSERT
+R - SELECT ALL/ONE
+U - UPDATE
+D - DELETE
+
+S - SESSIONS
+A - AJAX
+F - FILE SYSTEM (FTP)
+     D - DELETE
+     R - RENAME
+     C - CREATE
+     R - READ
+     U - UPLOAD
+     A - APPEND
+     V - DIR
+     E - EXISTS
+E - EMAIL SYSTEM (SMTP)
+
+BUFFER - PTSD
+STRING
+    keygen
+    name_f
+    money_f
+    serial_f
+PASSWORD
+    hash_f
+    ishash_f
+DATETIME
+    now
+    when
+    datetime_f
+    date_f
+    time_f
+    date_t
+    time_t
+    epoch_f
+    mktime_f
+
+laravel	lib:laracraft	lng:jrad, luigi
+django	lib:jangolova	lng:pyfox
+rails	lib:gemstone	lng:sapphire
+mern	lib:haystack	lng:jrad, joywave
+
+spring	lib:autumn	lng:javelin
+.net	lib:netscape 	lng:seaport
+php	lib:shaman	lng:
+
+react	lib:joywave
+flutter	lib:fishbone
+kivy	lib:kite
+
+0# shaman
+The absolute RAD Web Framework for Django, Laravel, Rails, React, Spring and .NET
+
+[/shaman/lang/Server.lang, Buffer.lang](/shaman/lang/Server.lang, Buffer.lang)
+
+------
+### class Server {...} 
+<!-- as server or bkend -->
+
+1. `sql_connect (username, password, database)`
+2. `sql_insert (table, post)`
+4. `sql_select (table, where)`
+5. `sql_update (table, post, where)`
+6. `sql_delete (table, where)`
+7. `sql_query (sql)`
+8. `glob_get (key)`
+9. `glob_set (key, value)`
+10. `glob_del (key)`
+11. `glob_end ()`
+12. `ftp_upload (tmp, dir, rename)`
+13. `ftp_delete (dir)`
+14. `ftp_exist (dir)`
+14. `ftp_meta (dir)`
+15. `smtp (from, to, subject, body, attach)`
+16. `ip ()`
+
+
+
+### class Buffer {...}  
+
+<!-- as buffer or buf -->
+
+*1. `keygen (size)`
+2. `safe_f (post)` <!-- trim, escape -->
+3. `name_f (string)`
+4. `email_f (email)` <!-- mailto, lower)
+5. `file_f (dir, file)`
+6. `money_f (int/float)`  <!-- 1,995.00 -->
+*7. `serial_f (int, size)`
+8. `hash_f (psw, h_psw)` <!-- md5 -->
+9. `regex (str, type)` <!-- int, name, email, password -->
+10. `now (epoch = FALSE)`
+11. `when (dt, secs)`
+12. `date_f (dt)`
+13. `time_f (dt)`
+14. `date_t (dt)`
+15. `time_t (dt)`
+16. `newdt_f (dt, dt_f, new_dt_f)`
+17. `null_f (str, def = 'N/A')`
+18. `enum_f (array, i)`
+*19. `mask_f (str)` <!-- *** -->
+
+*HTML & CSS library included.
+
+Enjoy !
+
+
+
+
