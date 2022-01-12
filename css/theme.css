@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* MAIN */
+.background-color,
+header,
+.login form button:hover,
+.exam main form button:hover,
+.done button:hover,
+.admin main button:hover {
+  background-color: #0c4b33;
+  color: #fff;
+}
+
+.color,
+.login form label,
+.admin nav ul li a:hover {
+  color: #0c4b33;
+}
+
+.border-color,
+nav,
+.login form button,
+.exam main form button,
+.done button,
+.admin main button {
+  border-color: #0c4b33;
+}
+
+/* LIGHT */
+.background-color,
+nav,
+.login form button,
+.exam main form button,
+.done button,
+.admin main button {
+  background-color: #44b78b;
+}
+
+.color,
+header p {
+  color: #44b78b;
+}
+
+.border-color {
+  border-color: #44b78b;
+}
+
+/* DARK */
+.background-color {
+  background-color: #092e20;
+  color: #fff;
+}
+
+.color {
+  color: #092e20;
+}
+
+.border-color,
+header {
+  border-color: #092e20;
+}
+
+/* HOVER */
+.background-color,
+.exam section,
+.admin nav ul li a:hover,
+.admin main table tr:hover td {
+  background-color: #f1fff7;
+}
+
+.color {
+  color: #f1fff7;
+}
+
+.border-color {
+  border-color: #f1fff7;
+}
+
+/* ACCENT */
+.background-color,
+.exam section ul li a.ans,
+.admin nav ul li a.selected {
+  background-color: #6a0e0e;
+  color: #fff;
+}
+
+.color,
+.admin main table caption {
+  color: #6a0e0e;
+}
+
+.border-color,
+.login form input:focus {
+  border-color: #6a0e0e;
+}

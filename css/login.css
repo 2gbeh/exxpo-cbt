@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+.login {  
+  padding-top: 150px;
+  background-color: transparent;
+}
+
+.login form {
+  padding: 25px 30px 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 #ccc;
+}
+
+.login form label {
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.login form label::after {
+  content: " :";
+}
+
+.login form input {
+  margin: 0;
+  padding: 10px 2px;
+  border: none;
+  border-bottom: solid thin #ccc;
+  width: 100%;
+  display: block;
+}
+.login form input[readonly],
+.login form input:focus {
+  background-color: transparent;
+}
+.login form input:focus {
+  border-color: #333;
+}
+
+.login form button {
+  margin-top: 15px;
+  padding: 14px 0;
+  border: solid thin#222;
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;  
+}
+.login form button:hover {
+  background-color: #222;
+}
+
+.login form .fieldset i {
+  color: #999;
+}
+
+.login + footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

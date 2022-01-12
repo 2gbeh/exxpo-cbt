@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width: 1366px) {
+  ain {
+    background-color: #ffc;
+  }
+  .container {
+    width: 100%;
+  }
+  .exam section ul {
+    display: inline;
+  }
+  .done ul li {
+    min-width: 420px;
+    max-width: 420px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  ain {
+    background-color: #ffb;
+  }
+  .exam nav ul {
+    padding-top: 10px;
+  }
+  .exam nav ul li {
+    padding-top: 0;
+  }
+  .exam main {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 200px;
+  }
+  .container-md {
+    width: 90%;
+  }
+  .done {
+    padding-top: 40px;
+  }
+}
+
+@media only screen and (max-width: 683px) {
+  ain {
+    background-color: #ffa;
+  }
+  .login {
+    padding-top: 60px;
+  }
+  .home ul.tiles {
+    padding: 20px 0;
+  }
+  .home ul.tiles li {
+    min-width: 90%;
+    max-width: 90%;
+  }
+  .container-sm {
+    width: 90%;
+  }
+  .exam section {
+    display: none;
+  }
+  .exam main {
+    padding-top: 100px;
+  }
+  .exam main form .radio-group {
+    margin-left: 0;
+  }
+  .exam main form figure {
+    margin: 5px 0;
+  }
+  .exam main form figure img {
+    max-width: 100%;
+  }
+  .exam .fab {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+  }
+  .done section .h1 {
+    font-size: 42px;
+  }
+  .done section .p {
+    font-size: 13px;
+  }
+  .done ul li {
+    min-width: 90%;
+    max-width: 90%;
+  }
+}

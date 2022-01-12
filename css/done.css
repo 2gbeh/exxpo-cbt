@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+.done {
+  padding-top: 50px;
+}
+
+.done section  {
+  margin-bottom: 40px;
+  text-align: center;
+}
+.done section .h1 {
+  margin-bottom: 15px;
+  color: #16bc00;
+  font-size: 52px;
+}
+.done section .p {  
+  color: #555;  
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.done ul {
+  text-align: center;
+}
+.done ul li {
+  margin: 15px;
+  min-width: 320px;
+  max-width: 320px;
+  min-height: 280px;
+  vertical-align: top;
+}
+.done ul li:first-child {
+  margin-left: 0;
+  margin-right: 0;
+}
+.done ul li img.passport {
+  width: 210px;
+}
+
+.done table {
+  text-align: left;
+  font-size: 12px;
+}
+.done table caption {
+  padding: 15px 20px;
+  border-bottom: solid thin #222;
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+.done table tr {
+  border-bottom: solid thin #ccc;
+}
+.done table tr th {
+  padding: 15px;
+  width: 1px;
+  white-space: nowrap;
+}
+.done table tr th::afte {
+  content: " :";
+}
+.done table tr td {
+  padding: 15px 0;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.done .action {
+  margin: 20px 40px;
+  text-align: right;
+}
+.done button {
+  padding: 12px 25px;
+  border: solid thin#222;
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;  
+}
+.done button:hover {
+  background-color: #222;
+}
+.done button i {
+    margin-right: 5px;
+}

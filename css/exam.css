@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+.exam .toolbar {
+  position: fixed;
+  top: 60px;
+  z-index: 99;
+  width: 100%;
+}
+
+.exam nav {
+  text-align: center;
+}
+.exam nav ul li {
+  margin: 0 10px;
+  padding: 15px 0;
+  cursor: default;
+}
+.exam nav ul li.action {
+  cursor: help;
+}
+.exam nav ul li var {
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.exam section {
+  padding: 5px 0;
+  background-color: #eee;
+  text-align: center;
+}
+.exam section ul {
+  margin-bottom: 5px;  
+}
+.exam section ul li {
+  border: outset thin #ccc;
+
+  min-width: 35px;
+  max-width: 35px;  
+  text-align: center;
+  font-size: 10px;
+}
+.exam section ul li a {
+  padding: 10px 0;
+  text-transform: uppercase;
+  display: block;
+}
+.exam section ul li a:hover {
+  background-color: #ffc;
+  cursor: cell;
+}
+.exam section ul li a:active {
+  border: inset thin #ccc;
+}
+.exam section ul li a.ans {
+  background-color: #fff;
+  cursor: default;
+}
+
+.exam main {
+  padding: 150px 40px;
+}
+
+.exam main form label {
+  margin-bottom: 5px;
+  text-transform: none;
+  font-weight: bold;
+  line-height: 22px;
+  cursor: default;
+}
+.exam main form input[type="radio"] {
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.exam main form input[type="submit"] {
+  color: transparent;
+  width: 25px;  
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  border-color :#eee;
+  cursor: not-allowed;
+}
+.exam main form button {
+  padding: 12px 25px;
+  border: solid thin#222;
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: bold;  
+}
+.exam main form button:hover {
+  background-color: #222;
+}
+.exam main form button i {
+    margin-right: 5px;
+}
+
+.exam main form .form-group {
+  padding: 15px 0 10px;
+  border-bottom: dashed 2px #ccc;
+}
+.exam main form .radio-group {  
+  margin-left: 20px;
+}
+.exam main form .radio-group label {
+  font-weight: normal;
+}
+.exam main form .radio-group label:hover {
+  text-decoration: underline;
+}
+
+.exam main form .action {
+  text-align: right;
+}
+
+.exam main form figure {
+  margin: 5px 25px;
+  display: block;
+}
+.exam main form figure img {
+  max-width: 320px;
+  max-height: 180px;
+}
+
+.exam main form time {
+  margin-bottom: 10px;
+  background-color: inherit;
+  color: #e11;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: progress;
+  display: block;  
+}
+
+.exam .fab {
+  position: fixed;
+  right: 25px;
+  bottom: 25px;
+  z-index: 99;
+}

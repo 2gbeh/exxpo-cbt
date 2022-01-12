@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+.admin nav ul li {
+  margin-left: -4px;
+}
+.admin nav ul li a {
+  padding: 15px;
+  display: block;
+}
+.admin nav ul li a i {
+  margin-right: 5px;
+}
+
+.admin main {
+  padding: 40px 20px;
+}
+
+.admin main section ul {
+  text-align: right;
+}
+.admin main section ul li {
+  margin: 0 5px;
+}
+.admin main section ul li a {
+  padding: 8px 16px;
+  border-bottom: solid #222;
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.admin main section ul li a.focus {
+  background-color: #fff;
+  color: #333;
+}
+
+.admin main article {
+  overflow: auto;
+}
+
+.admin main table {
+  text-align: left;
+  font-size: 12px;
+}
+.admin main table caption {
+  padding: 10px 15px;
+  font-weight: bold;
+}
+.admin main table tr {
+  border-bottom: solid thin #ccc;
+}
+.admin main table tr th {
+  padding: 15px 5px;
+  border-bottom: solid #222;
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.admin main table tr td {
+  padding: 12px 5px;
+}
+.admin main table tr th:first-child,
+.admin main table tr td:first-child {
+  width: 1px;
+}
+.admin main table tr th:last-child,
+.admin main table tr td:last-child {
+  width: 1px;
+  text-align: right;
+  white-space: nowrap;
+}
+.admin main table tr:nth-child(odd) {
+  background-color: #eee;
+}
+.admin main table tr:hover td {
+  background-color: #ddd;
+}
+
+.admin main table tr td a {
+  color: blue;
+  text-decoration: underline;
+}
