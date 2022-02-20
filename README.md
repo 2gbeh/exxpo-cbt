@@ -1,2 +1,2 @@
 # exxpo
-Web-based CBT Application
+On-Demand CBT Application
